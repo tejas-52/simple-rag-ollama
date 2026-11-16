@@ -1,0 +1,28 @@
+Café Elbe Staff Handbook (fictional document for testing RAG)
+
+1. About Café Elbe
+Café Elbe is a small café on the bank of the Elbe river in Dresden. It was founded in 2019 by Mira Hoffmann and Jonas Patel. The café has 12 tables inside and 8 tables on the terrace. Its signature drink is the "Blue Bridge Latte", made with butterfly pea flower, oat milk and a shot of espresso.
+
+2. Opening Hours
+From Monday to Friday the café opens at 7:30 and closes at 19:00. On Saturday it opens at 9:00 and closes at 20:00. On Sunday it opens at 10:00 and closes at 17:00. The terrace is only open from April to October.
+
+3. Staff Shifts
+There are two shifts. The morning shift runs from 7:00 to 13:30 and the afternoon shift runs from 13:00 to 19:30. The half-hour overlap is used for handover: the morning team counts the cash drawer and writes notes in the blue handover notebook. Shift swaps must be approved by the shift lead at least 48 hours in advance.
+
+4. Breaks and Staff Food
+Every employee working more than 6 hours gets a 30-minute break. Staff can have one free drink per shift and a 50% discount on food. The discount does not apply to the cakes from the partner bakery "Backstube Neustadt".
+
+5. Opening Checklist
+The first person to arrive turns off the alarm using the code given by the manager, switches on the espresso machine (it needs 25 minutes to heat up), checks the fridge temperature (it must be between 2 and 5 degrees Celsius) and writes it in the temperature log. Fresh milk deliveries arrive on Monday, Wednesday and Friday at around 7:15.
+
+6. Closing Checklist
+At closing, the espresso machine must be backflushed with cleaning powder, the terrace chairs are stacked and chained, and the cash drawer is counted twice by two different people. Leftover cakes are donated to the food-sharing fridge at the student dorm on Wundtstraße every evening.
+
+7. Customer Rules
+Dogs are welcome on the terrace but not inside. Laptops are allowed, but on weekends laptop use is limited to 2 hours per table between 11:00 and 15:00. The café accepts card and cash payments, but not cheques. The Wi-Fi password changes every month and is printed on the receipt.
+
+8. Problems and Contacts
+If the espresso machine breaks, call the repair service "KaffeeTech Sachsen". If there is a power cut, close the fridge doors and do not open them for at least 2 hours. For sick leave, employees must message the manager before 6:00 on the same day and bring a doctor's note from the third day of illness.
+
+9. Loyalty Program
+Customers get one stamp per hot drink. After 9 stamps, the 10th drink is free. Stamps cannot be used for the Blue Bridge Latte during the "Elbe Summer Festival" week in July.
